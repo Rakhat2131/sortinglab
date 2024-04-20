@@ -16,7 +16,7 @@ rust
 Copy code
 use sorting_library::{quick_sort, Sortable};
 
-'''let mut numbers = vec![5, 3, 7, 1, 9];'''
+let mut numbers = vec![5, 3, 7, 1, 9];
 quick_sort(&mut numbers);
 println!("Sorted vector: {:?}", numbers);
 You can also define your own data types by implementing the Sortable trait and sort collections of objects of your type.
@@ -36,13 +36,14 @@ impl Sortable for MyObject {
     }
 }
 
-// Example usage
+# Example usage
+`
 let mut objects = vec![
     MyObject { value: 5 },
     MyObject { value: 3 },
     MyObject { value: 7 },
 ];
-
+`
 quick_sort(&mut objects);
 Sorting Algorithms
 The following sorting algorithms are implemented in our library:
@@ -51,8 +52,8 @@ Quicksort (quick_sort)
 Selection sort (selection_sort)
 Insertion sort (insertion_sort)
 Merge sort (merge_sort)
-Requirements
+# Requirements
 This library requires Rust version 1.0 or above.
 
-License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
