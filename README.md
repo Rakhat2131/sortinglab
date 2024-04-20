@@ -60,5 +60,6 @@ This library requires Rust version 1.0 or above.
 # Tests
  <img src=https://github.com/Rakhat2131/sortinglab/raw/main/images/2024-04-20_23-36-00.png><br>
  <img src=https://github.com/Rakhat2131/sortinglab/blob/main/images/2024-04-20_23-36-11.png><br>
+ <img src=https://github.com/Rakhat2131/sortinglab/blob/main/images/2024-04-20_23-38-36.png><br>
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
