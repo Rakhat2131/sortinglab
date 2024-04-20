@@ -1,4 +1,4 @@
-# sortinglab
+# Sortinglab
 Rust Sorting Library
 This is a library providing functions for sorting various data types in the Rust programming language. It includes implementations of sorting algorithms such as quicksort, selection sort, insertion sort, and merge sort.
 
@@ -16,7 +16,7 @@ rust
 Copy code
 use sorting_library::{quick_sort, Sortable};
 
-let mut numbers = vec![5, 3, 7, 1, 9];
+'''let mut numbers = vec![5, 3, 7, 1, 9];'''
 quick_sort(&mut numbers);
 println!("Sorted vector: {:?}", numbers);
 You can also define your own data types by implementing the Sortable trait and sort collections of objects of your type.
