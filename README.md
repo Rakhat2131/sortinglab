@@ -9,7 +9,7 @@ toml
 Copy code
 `
 [dependencies]
-sorting_library = "0.1.0"
+sorting_library = "https://github.com/Rakhat2131/sortinglab"
 `
 # Usage
 Example of using the quicksort function for a vector of integers:
