@@ -7,9 +7,11 @@ To use this library, add it to the dependencies of your project in the Cargo.tom
 
 toml
 Copy code
+`
 [dependencies]
 sorting_library = "0.1.0"
-Usage
+`
+# Usage
 Example of using the quicksort function for a vector of integers:
 
 rust
