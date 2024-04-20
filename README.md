@@ -1,6 +1,10 @@
 # Sortinglab
 Rust Sorting Library
-This is a library providing functions for sorting various data types in the Rust programming language. It includes implementations of sorting algorithms such as quicksort, selection sort, insertion sort, and merge sort.
+This library provides functions for sorting various data types in the Rust programming language. It includes implementations of sorting algorithms such as quicksort, selection sort, insertion sort, and merge sort.
+
+Sorting algorithms are fundamental in programming and find applications in a multitude of tasks, including organizing data for more efficient searching, processing, and analysis. Using this library allows developers to quickly and easily incorporate sorting into their Rust projects, ensuring optimal performance and ease of use.
+
+With various algorithms provided by this library, developers can choose the most suitable sorting method based on the specific requirements and characteristics of their data. The library also offers flexibility in usage thanks to its generic implementations, allowing sorting of different types of data with ease.
 
 # Installation
 To use this library, add it to the dependencies of your project in the Cargo.toml file:
