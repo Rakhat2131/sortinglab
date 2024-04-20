@@ -45,8 +45,8 @@ let mut objects = vec![
     MyObject { value: 3 },
     MyObject { value: 7 },
 ];
-`
 quick_sort(&mut objects);
+`
 Sorting Algorithms
 The following sorting algorithms are implemented in our library:
 
@@ -56,6 +56,7 @@ Insertion sort (insertion_sort)
 Merge sort (merge_sort)
 # Requirements
 This library requires Rust version 1.0 or above.
-
+# Tests
+![Пример изображения](https://example.com/image.png)
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
