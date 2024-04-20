@@ -55,6 +55,9 @@ Quicksort (quick_sort)
 Selection sort (selection_sort)
 Insertion sort (insertion_sort)
 Merge sort (merge_sort)
+<img src=https://github.com/Rakhat2131/sortinglab/blob/main/images/2024-04-20_23-38-48.png><br>
+<img src=https://github.com/Rakhat2131/sortinglab/blob/main/images/2024-04-20_23-38-58.png<br>
+<img src=https://github.com/Rakhat2131/sortinglab/blob/main/images/2024-04-20_23-39-03.png<br>
 # Requirements
 This library requires Rust version 1.0 or above.
 # Tests
