@@ -11,6 +11,7 @@ Copy code
 [dependencies]
 sorting_library = "https://github.com/Rakhat2131/sortinglab"
 `
+<img src=https://github.com/Rakhat2131/sortinglab/blob/main/images/2024-04-20_23-51-21.png><br>
 # Usage
 Example of using the quicksort function for a vector of integers:
 
