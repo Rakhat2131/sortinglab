@@ -57,6 +57,7 @@ Merge sort (merge_sort)
 # Requirements
 This library requires Rust version 1.0 or above.
 # Tests
-![Пример изображения](https://example.com/image.png)
+![Тут должна была быть картинка](![2024-04-20_23-36-00](https://github.com/Rakhat2131/sortinglab/raw/main/images/2024-04-20_23-36-00.png)
+)
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
